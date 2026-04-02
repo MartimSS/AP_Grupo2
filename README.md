@@ -3,6 +3,7 @@
 ## Constituição do Grupo
 
 | Nome | Número de Aluno |
+|------|----------------|
 | Beatriz Silva | PG59997 |
 | Leonor Barros | PG60010 |
 | Francisco Casimiro | PG60005 |
