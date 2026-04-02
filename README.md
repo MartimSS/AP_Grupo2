@@ -39,6 +39,6 @@ Este repositório contém todo o código, dados e pipelines desenvolvidos no âm
 
 ## Como Navegar
 
-1. Para explorar o modelo principal, acede à pasta **`numpy/`**
+1. Para explorar o modelo em numpy, acede à pasta **`numpy/`**
 2. Para perceber como os dados foram preparados, consulta a pasta **`data/`**
 3. Para acompanhar a evolução do projeto por submissão, navega pelas pastas **`Subm1`**, **`Subm2`** e **`Subm3`**
