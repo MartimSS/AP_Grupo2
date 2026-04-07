@@ -25,6 +25,7 @@ Este repositório contém todo o código, dados e pipelines desenvolvidos no âm
  ┣ 📂 Subm1/           # Submissão 1
  ┣ 📂 Subm2/           # Submissão 2
  ┣ 📂 Subm3/           # Submissão 3
+ ┣ 📂 anexos_relatorio/   # Anexos do relatório
  ┗ 📂 video_apresentacao/  # Vídeo da apresentação final
 ```
 
@@ -34,6 +35,7 @@ Este repositório contém todo o código, dados e pipelines desenvolvidos no âm
 - **`data/`** – Código utilizado para a construção e pré-processamento dos datasets usados no projeto.
 - **`Subm1/`, `Subm2/`, `Subm3/`** – Cada pasta corresponde a uma submissão do projeto, com o respetivo código e resultados.
 - **`video_apresentacao/`** – Vídeo da apresentação final da unidade curricular.
+- **`anexo_relatório/`** - Imagens e tabelas referidas como Anexo no relatório. No relatório a menção destes anexos possui uma hiperligação qu eleva diretamente ao ficheiro desta pasta.
 
 ---
 
